@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Provenance Guard runtime state
+audit_log.jsonl
+content_store.json
+content_store.json.tmp
